@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    首页
+    首页123
   </div>
 </template>
 
